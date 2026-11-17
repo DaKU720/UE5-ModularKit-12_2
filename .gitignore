@@ -92,9 +92,11 @@ compile_commands.json
 *.uproject.user
 
 # --- Claude Code ---
-.claude/settings.local.json
-.claude/worktrees/
+.claude/
+CLAUDE.md
 CLAUDE.local.md
+**/CLAUDE.md
+**/.claude/
 
 # --- System / sekrety ---
 .DS_Store
