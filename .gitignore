@@ -74,3 +74,30 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# --- Unreal: dodatkowe ---
+Plugins/**/Saved/*
+Plugins/**/DerivedDataCache/*
+.idea/
+.vscode/
+*.code-workspace
+compile_commands.json
+.cache/
+*.sln.DotSettings.user
+*.pdb
+*.ilk
+*.exp
+*.target
+*.modules
+*.uproject.user
+
+# --- Claude Code ---
+.claude/settings.local.json
+.claude/worktrees/
+CLAUDE.local.md
+
+# --- System / sekrety ---
+.DS_Store
+Thumbs.db
+.env
+.env.*
