@@ -35,7 +35,7 @@ team-members/      pliki członków zespołu
 1. Każdy pracuje na swojej gałęzi (`dawid`, `maja`, `maria`, `zuza`).
 2. Przed pracą: w GitHub Desktop **Branch > Update from main**.
 3. Commit i push na swoją gałąź.
-4. Pull request do `main`. Merge po akceptacji Dawida.
+4. Pull request do `main`.
 
 Pliki Unreal (`.uasset`, `.umap`) i source art (`.fbx`, `.psd`, `.tga` i inne) idą przez Git LFS, ustawiony w `.gitattributes`.
 
