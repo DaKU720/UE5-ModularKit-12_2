@@ -13,23 +13,6 @@ Modularny kit w Unreal Engine 5.
 - Maria
 - Zuza
 
-## Struktura repo
-
-```
-references/        zdjęcia referencyjne (.jpg, .png)
-  Exteriors/       całe budynki: przód, bok, tył, narożniki
-  Walls/           ściany i fasady
-  Roofs/           dachy
-  Windows/         okna
-  Doors/           drzwi
-  Balconies/       balkony
-  Stairs/          schody
-  Details/         obramowania, filary, fundamenty
-  Materials/       cegła, tynk, beton, rdza, brud, mech, zniszczenia
-  Props/           kable, rury, klimatyzatory, szyldy, neony
-team-members/      pliki członków zespołu
-```
-
 ## Referencje: checklista
 
 - [x] Folder `references` z podfolderami kategorii
