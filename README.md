@@ -13,7 +13,7 @@
 
 ## Referencje: checklista
 
-- [ ] Folder `References` w głównym katalogu repo (podfoldery np. `Walls`, `Roofs`, `Materials`)
+- [x] Folder `References` w głównym katalogu repo (podfoldery np. `Walls`, `Roofs`, `Materials`)
 - [ ] Razem co najmniej 20 do 40 zdjęć `.jpg` / `.png` dobrej jakości
 - [ ] Całe budynki z zewnątrz: przód, bok, tył, narożniki
 - [ ] Okna, drzwi, dachy, obramowania, filary, schody, balkony, fundamenty
