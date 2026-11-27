@@ -1,0 +1,35 @@
+Przydział modułów: Cyberpunk Sci-Fi Slum Habitation Block
+Razem: 24 moduły, po 6 na osobę (w tym po 3 trudne, oznaczone *)
+Siatka: krok 0,5 m, moduł ściany 2 x 3 m, kondygnacja 3 m
+
+DAWID
+  01  Wall_Solid           2 x 0,2 x 3 m
+  02  Wall_Half            1 x 0,2 x 3 m
+  03  Wall_Window*         2 x 0,2 x 3 m, okno 1 x 1,5 m
+  04  Wall_Door*           2 x 0,2 x 3 m, drzwi 1 x 2,2 m
+  05  Wall_Shopfront*      2 x 0,5 x 3 m
+  06  Corner_Pillar        0,5 x 0,5 x 3 m
+
+MAJA
+  08  Floor_Ledge          2 x 0,5 x 0,2 m
+  09  Foundation_Plinth    2 x 0,5 x 0,5 m
+  10  Roof_Parapet         2 x 0,2 x 1 m
+  11  Roof_Corrugated*     2 x 2 m, spadek 0,5 m
+  12  Awning*              2 x 1 m
+  17  Rooftop_Equipment*   1 x 1 x 1,5 m
+
+MARIA
+  07  Floor_Slab           2 x 2 x 0,2 m
+  13  Balcony*             2 x 1 x 1 m
+  14  Railing              2 x 0,1 x 1 m
+  15  Stairs_Metal*        1 x 3 x 3 m
+  16  Addon_Box*           2 x 2 x 3 m
+  24  Props_Barrels        0,5 x 0,5 x 1 m
+
+ZUZA
+  18  Utility_Pole*        0,5 x 0,5 x 8 m
+  19  Neon_Vertical*       0,5 x 0,2 x 2 m
+  20  Neon_Horizontal      2 x 0,2 x 0,5 m
+  21  AC_Unit              0,5 x 0,5 x 0,5 m
+  22  Cables_Pipes         2 x 0,2 x 3 m
+  23  Vending_Machine*     1 x 0,5 x 2 m
