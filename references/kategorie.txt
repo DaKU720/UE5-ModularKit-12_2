@@ -1,0 +1,56 @@
+Referencje: Cyberpunk Sci-Fi Slum Habitation Block
+Razem: 36 zdjęć (9 pełnych obrazów + 27 wycinków detali z tych obrazów)
+
+KATEGORIE (prefiks nazwy pliku) I LICZBA ZDJĘĆ
+exterior   3   całe budynki z zewnątrz
+street     6   ujęcia uliczne / koncepty dzielnicy
+detail    20   detale architektury, w tym:
+                 window     3   okna
+                 door       4   drzwi i wejścia
+                 roof       5   dachy, zadaszenia, markizy, okapy
+                 balcony    2   balkony i wysunięte bryły
+                 cables     2   kable, słupy, transformatory
+                 sign       3   szyldy i neony
+                 utilities  1   skrzynki, klimatyzatory, instalacje na ścianie
+material   5   materiały i zużycie
+prop       2   propsy
+
+PEŁNE OBRAZY
+exterior_kato-japanese-building.jpg
+exterior_dystopian-slums-concept.png
+exterior_neon-tower-corner.png
+street_neon-shantytown-alley.png
+street_neon-shantytown-small.png
+street_slums-battlemap.png
+street_slums-dusk.png
+street_slums-rumyanazarkova.png
+street_wasteland-city.png
+
+WYCINKI: ŹRÓDŁO
+detail_window_01            exterior_kato-japanese-building.jpg
+detail_window_02            street_slums-battlemap.png
+detail_window_03            street_slums-dusk.png
+detail_door_01              exterior_kato-japanese-building.jpg
+detail_door_02              street_neon-shantytown-small.png
+detail_door_03              street_slums-battlemap.png
+detail_door_04              exterior_neon-tower-corner.png
+detail_roof_01              exterior_dystopian-slums-concept.png
+detail_roof_02              street_neon-shantytown-alley.png
+detail_roof_03              street_slums-dusk.png
+detail_roof_04              street_neon-shantytown-alley.png
+detail_roof_05              exterior_neon-tower-corner.png
+detail_balcony_01           street_slums-battlemap.png
+detail_balcony_02           street_slums-dusk.png
+detail_cables_01            exterior_kato-japanese-building.jpg
+detail_cables_02            exterior_dystopian-slums-concept.png
+detail_sign_01              street_neon-shantytown-alley.png
+detail_sign_02              street_neon-shantytown-small.png
+detail_sign_03              exterior_neon-tower-corner.png
+detail_utilities_01         exterior_neon-tower-corner.png
+material_brick-graffiti_01  exterior_dystopian-slums-concept.png
+material_concrete_01        exterior_kato-japanese-building.jpg
+material_dirty-plaster_01   street_slums-battlemap.png
+material_metal-panels_01    exterior_neon-tower-corner.png
+material_rusty-metal_01     street_slums-battlemap.png
+prop_barrels_01             street_neon-shantytown-alley.png
+prop_pots_01                street_slums-battlemap.png
